@@ -39,46 +39,6 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://oxarlly.github.io/2024/04/27/hello-world/"/>
-    <id>https://oxarlly.github.io/2024/04/27/hello-world/</id>
-    <published>2024-04-27T06:57:38.615Z</published>
-    <updated>2024-04-13T08:07:57.404Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;js&#92;APlayer.min.js&quot; class=&quot;aplayer-se</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Untitled</title>
-    <link href="https://oxarlly.github.io/2024/01/20/Untitled/"/>
-    <id>https://oxarlly.github.io/2024/01/20/Untitled/</id>
-    <published>2024-01-20T01:37:00.000Z</published>
-    <updated>2024-01-20T01:45:42.459Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;js&#92;APlayer.min.js&quot; class=&quot;aplayer-se</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>解读误会与沟通之道</title>
     <link href="https://oxarlly.github.io/2023/10/29/%E8%A7%A3%E8%AF%BB%E8%AF%AF%E4%BC%9A%E4%B8%8E%E6%B2%9F%E9%80%9A%E4%B9%8B%E9%81%93/"/>
     <id>https://oxarlly.github.io/2023/10/29/%E8%A7%A3%E8%AF%BB%E8%AF%AF%E4%BC%9A%E4%B8%8E%E6%B2%9F%E9%80%9A%E4%B9%8B%E9%81%93/</id>
@@ -453,6 +413,50 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>日本生可乐</title>
+    <link href="https://oxarlly.github.io/2023/07/20/%E6%97%A5%E6%9C%AC%E7%94%9F%E5%8F%AF%E4%B9%90/"/>
+    <id>https://oxarlly.github.io/2023/07/20/%E6%97%A5%E6%9C%AC%E7%94%9F%E5%8F%AF%E4%B9%90/</id>
+    <published>2023-07-20T00:16:08.000Z</published>
+    <updated>2024-01-13T00:34:55.949Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="视频解说"><a href="#视频解说" class="headerlink" title="视频解说"></a>视频解说</h1><div class="videoContent">  <video class="videoElement" src="https://oxarlly.github.io/images/日本生可乐/1.mp4" controls     preload="auto" width="100%" height="100%"></video></div><hr><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>日本生可乐（Nihon Seikōru）是一种独特的碳酸饮料，具有浓郁的口感和独特的风味，深受日本人的喜爱。它是日本饮料市场上的一颗璀璨明珠，让人们在炎炎夏日中感受到清凉与快乐。</p><p>日本生可乐的制作过程非常精细，追求细节和品质。首先，选用优质的水源作为基础，确保饮料的口感纯净而清爽。接下来，将经过精心调配的糖浆与二氧化碳气体混合，形成了细腻的气泡和甜蜜的味道。最后，将成品装瓶，以确保其新鲜度和品质。</p><p>日本生可乐有着独特的口感和味道。它的气泡细腻而持久，给人一种清爽的感觉。与传统的可乐相比，日本生可乐的甜度更为适中，不会过于甜腻，让人可以在一口口畅饮中感受到它的独特魅力。此外，它还有一种微妙的香气，使人们在品尝时更加愉悦。</p><p>日本生可乐在日本的文化中扮演着重要的角色。它是人们聚会、庆祝和放松的常见饮品。在夏日的炎热天气中，人们常常选择一瓶冰凉的生可乐来解暑。无论是在家庭聚会、朋友聚会还是节日庆典中，都可以看到人们举着生可乐瓶享受快乐时光的场景。</p><p>除了作为饮料，日本生可乐还有许多创意的用途。它可以用来制作各种鸡尾酒和调酒，为人们带来不同的口味体验。此外，它还可以用于制作甜点和烹饪，为食物增添一丝独特的风味。</p><div align="center"><img src="https://oxarlly.github.io/images/日本生可乐/1.jpg" style="zoom:50%" alt="日本生可乐  陈俊峰代言人"></div><p>广东人和日本生可乐、宾州发光之间的联系还可以从文化交流和融合的角度来看。广东作为中国的南方门户，与世界各地保持着广泛的交流和合作。这种文化的交融和融合使得广东人具有开放包容的心态和广阔的视野。他们能够吸收和融合不同文化的精华，创造出独特而富有创意的东西。正如日本生可乐融合了日本的制作工艺和口感，创造出独特的饮料，广东人也能够将不同文化的元素融入到自己的创作和生活中，展现出独特的魅力。</p><p>综上所述，日本生可乐成了中国网友的“宾州强化器”。广东人以其勤劳、聪明和开放的特质，与日本生可乐共同追求创新和卓越。他们在宾州发光这个充满活力和机遇的城市中发挥着重要的作用，为城市的发展和进步做出了贡献。通过文化交流和融合，广东人能够吸收和融合不同文化的精华，展现出独特的魅力和创造力。让我们共同欣赏广东人的智慧和努力，品味日本生可乐的独特魅力，共同见证宾州发光的繁荣和进步。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;js&#92;APlayer.min.js&quot; class=&quot;aplayer-se</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>思</title>
+    <link href="https://oxarlly.github.io/2023/07/19/%E6%80%9D/"/>
+    <id>https://oxarlly.github.io/2023/07/19/%E6%80%9D/</id>
+    <published>2023-07-19T06:46:50.000Z</published>
+    <updated>2024-01-13T00:34:28.319Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h1><div class="videoContent">  <video class="videoElement" src="https://oxarlly.github.io/images/思/1.mp4" controls     preload="auto" width="100%" height="100%"></video><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>这是一幅画，你也可以认定为是一本书，每个人都有一本属于自己创造的书，而自己就是那本书的主角，没错，是人生。</p><p>人生的含义大多，我们因时间而改变，而忘记事物的本质，人心永远都是贪婪的，有人沉醉迷于金钱，势力，地位，却殊不知自己已经失去了最美好的东西。我们每天都被小事弄的自己一团槽。但，这些有意义吗?有人说有，因为那些意义是你们自己定义的，事物的本质都因这些失去了。比如:猎杀动物为了什么?本是温饱，但如今，温饱已满足，于是，猎杀动物使成为一种玩乐。这导致了多种动物的灭绝，生态链的破坏，所以说:欲望，是数不可止的。</p><p>人心，摸不透，人生的道路上有太多摸不透人了，有些人可能每天苦恼他她是个什么样们人呢?他&#x2F;她为什么要这样?…;有些人即使会，但也个会去多想，只是去想想自己接下来的路。</p><p>还有，有人总会去刻意地仿他人，如果你成了别人，那你的人生还有意义吗?刻意去模仿他人无异于自杀，不要去在意别人的否定，如果真错了，那就下次注意，如果没错，那就要相信自己!你的人生不应该由别人去定义，而是自己创造，谱写一本属于自己的人生!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;js&#92;APlayer.min.js&quot; class=&quot;aplayer-se</summary>
+      
+    
+    
+    
+    <category term="SimpleZelena" scheme="https://oxarlly.github.io/categories/SimpleZelena/"/>
+    
+    
+    <category term="粉丝投稿" scheme="https://oxarlly.github.io/tags/%E7%B2%89%E4%B8%9D%E6%8A%95%E7%A8%BF/"/>
     
   </entry>
   
