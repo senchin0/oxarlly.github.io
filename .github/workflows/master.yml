@@ -1,33 +1,32 @@
-# workflow name
 name: Hexo Blog CI
 
-# master branch on push, auto run
 on: 
   push:
     branches:
       - master
-      
+
 jobs:
   build: 
     runs-on: ubuntu-latest 
         
     steps:
-    # check it to your workflow can access it
-    # from: https://github.com/actions/checkout
+    # 使用稳定的 actions/checkout 版本
     - name: Checkout Repository master branch
-      uses: actions/checkout@master 
+      uses: actions/checkout@v3
       
-    # from: https://github.com/actions/setup-node  
+    # 使用稳定的 actions/setup-node 版本
     - name: Setup Node.js 12.x 
-      uses: actions/setup-node@master
+      uses: actions/setup-node@v3
       with:
         node-version: "12.x"
     
+    # 安装 Hexo 及其依赖
     - name: Setup Hexo Dependencies
       run: |
         npm install hexo-cli -g
         npm install        
     
+    # 配置 SSH 部署私钥
     - name: Setup Deploy Private Key
       env:
         HEXO_DEPLOY_PRIVATE_KEY: ${{ secrets.HEXO_DEPLOY_PRIVATE_KEY }}
@@ -37,12 +36,15 @@ jobs:
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan github.com >> ~/.ssh/known_hosts
                 
-    - name: Setup Git Infomation
+    # 设置 Git 信息
+    - name: Setup Git Information
       run: | 
         git config --global user.name 'oxarlly' 
         git config --global user.email 'jianhua37212022@163.com'
+    
+    # 部署 Hexo 网站
     - name: Deploy Hexo 
       run: |
         hexo clean
         hexo generate 
-        hexo deploy        
+        hexo deploy
