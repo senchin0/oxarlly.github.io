@@ -21,7 +21,7 @@ menu:
   时间线: /timeline/ || fas fa-timeline
   传送门: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
-  编辑：https://github.com/oxarlly/oxarlly.github.io/tree/master/source || fas fa-pencil-alt
+  编辑: https://github.com/oxarlly/oxarlly.github.io/tree/master/source || fas fa-pencil-alt
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -182,10 +182,10 @@ reward:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
+  enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url:
+  url: https://github.com/oxarlly/oxarlly.github.io/edit/master/source/
 
 # Related Articles
 related_post:
