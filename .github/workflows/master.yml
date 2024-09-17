@@ -35,6 +35,11 @@ jobs:
         echo "$HEXO_DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa 
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan github.com >> ~/.ssh/known_hosts
+    
+    # 强制将 git remote URL 切换为 SSH 格式
+    - name: Force use SSH for git remote
+      run: |
+        git remote set-url origin git@github.com:<your-username>/<your-repo>.git
                 
     # 设置 Git 信息
     - name: Setup Git Information
