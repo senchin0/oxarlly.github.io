@@ -128,3 +128,7 @@ admin:
   username: username
   password_hash: $2a$10$hCGxrYfy73p0XVnBIpTNAOPlHBcAUlm4YfKzSc.ONSg0QpgE9mIdS
   secret: my super secret phrase
+
+sitemap:
+  path: sitemap.xml
+
