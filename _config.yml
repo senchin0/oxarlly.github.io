@@ -138,3 +138,4 @@ robots:
   allow: /
   sitemap: https://oxarlly.github.io/sitemap.xml
 
+google_site_verification: true
