@@ -132,3 +132,9 @@ admin:
 sitemap:
   path: sitemap.xml
 
+robots:
+  useragent: '*'
+  disallow:
+  allow: /
+  sitemap: https://oxarlly.github.io/sitemap.xml
+
